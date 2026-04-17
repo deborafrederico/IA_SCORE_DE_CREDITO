@@ -23,3 +23,17 @@ Criar um modelo simples capaz de classificar ou prever o score de crédito com b
 - Preparação de dados para modelos
 - Análise de dados aplicada
 - Interpretação de resultados
+
+- ## 📈 Resultado do Modelo
+
+O modelo foi treinado e avaliado utilizando diferentes algoritmos de machine learning.
+
+- Modelo de Árvore de Decisão: 82% de acurácia  
+- Modelo KNN: 73% de acurácia  
+
+O modelo de árvore apresentou melhor desempenho na classificação do score de crédito.
+
+<img width="978" height="466" alt="image" src="https://github.com/user-attachments/assets/9253f44e-30c4-4acd-842c-6f2f4e26d7bf" />
+
+
+
