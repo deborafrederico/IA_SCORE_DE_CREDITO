@@ -35,5 +35,8 @@ O modelo de árvore apresentou melhor desempenho na classificação do score de 
 
 <img width="978" height="466" alt="image" src="https://github.com/user-attachments/assets/9253f44e-30c4-4acd-842c-6f2f4e26d7bf" />
 
+## 💡 Análise
+
+Foi possível observar que diferentes algoritmos apresentam desempenhos distintos, sendo necessário avaliar qual modelo se adapta melhor aos dados disponíveis.
 
 
